@@ -1,0 +1,10 @@
+# ZeroScript / bridge
+logs/
+__pycache__/
+*.pyc
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
